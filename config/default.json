@@ -1,0 +1,6 @@
+{
+  "name": "Oikos",
+  "mongodb": {
+    "port": "mongodb://localhost/oikos"
+  }
+}

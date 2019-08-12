@@ -1,0 +1,6 @@
+{
+  "name": "Oikos - Development",
+  "mongodb": {
+    "url": "mongodb://localhost/oikos-dev"
+  }
+}
